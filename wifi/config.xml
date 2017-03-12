@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8" ?>
     <widget xmlns   = "http://www.w3.org/ns/widgets"
         xmlns:gap   = "http://phonegap.com/ns/1.0"
-		id          = "myfirstapp"
+		id          = "SEcondapp"
         version     = "1.0.0" >
 
     <name>GUI</name>
    
-    <author href="http://mypersonalwebsite.com" email="johnbrown@gmail.com">
+    <author href="http://mypersonalwebsite.com" email="mateusz513@interia.pl">
 		Mateusz Dziedzina
 	</author>
 	<platform name="android" />
